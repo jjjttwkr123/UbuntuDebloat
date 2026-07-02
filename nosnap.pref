@@ -2,6 +2,6 @@ Package: snapd
 Pin: release o=Ubuntu
 Pin-Priority: -11451
 
-Package: thunderbid
+Package: thunderbird
 Pin: release o=LP-PPA-mozillateam
 Pin-Priority: -11451

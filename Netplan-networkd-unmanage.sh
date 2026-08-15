@@ -6,3 +6,4 @@ echo For systemd-networkd use ONLY (on Ubuntu Server Default Installation)
 echo Press Enter to continue
 read
 sudo systemctl disable --now netplan-configure
+sudo systemctl restart systemd-networkd

@@ -4,4 +4,4 @@ Pin-Priority: -11451
 
 Package: thunderbird
 Pin: release o=LP-PPA-mozillateam
-Pin-Priority: -11451
+Pin-Priority: 11451

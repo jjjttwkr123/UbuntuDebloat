@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt-add-repository -Py mozillateam/ppa
+sudo apt-add-repository -P mozillateam/ppa
